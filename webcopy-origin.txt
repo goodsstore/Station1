@@ -1,0 +1,208 @@
+Uri: https://rjukzak3v1.trend11.shop/img/offer3__benefit1_icon.png
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\img\offer3__benefit1_icon-1.png
+Content Type: image/png
+
+Uri: https://rjukzak3v1.trend11.shop/img/offer3__benefit2_icon.png
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\img\offer3__benefit2_icon-1.png
+Content Type: image/png
+
+Uri: https://rjukzak3v1.trend11.shop/img/offer3__benefit3_icon.png
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\img\offer3__benefit3_icon-1.png
+Content Type: image/png
+
+Uri: https://rjukzak3v1.trend11.shop/img/offer__name_icon.png
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\img\offer__name_icon-1.png
+Content Type: image/png
+
+Uri: https://rjukzak3v1.trend11.shop/img/offer__phone_icon.png
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\img\offer__phone_icon-1.png
+Content Type: image/png
+
+Uri: https://rjukzak3v1.trend11.shop/img/order_steps1__step1_icon.png
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\img\order_steps1__step1_icon-1.png
+Content Type: image/png
+
+Uri: https://rjukzak3v1.trend11.shop/img/order_steps1__step2_icon.png
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\img\order_steps1__step2_icon-1.png
+Content Type: image/png
+
+Uri: https://rjukzak3v1.trend11.shop/img/order_steps1__step3_icon.png
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\img\order_steps1__step3_icon-1.png
+Content Type: image/png
+
+Uri: https://rjukzak3v1.trend11.shop/img/order_steps1__step4_icon.png
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\img\order_steps1__step4_icon-1.png
+Content Type: image/png
+
+Uri: https://station.superhotshop.store/
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\index-1.htm
+Content Type: text/html
+
+Uri: https://station.superhotshop.store/station_files/1076772420300672
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\1076772420300672-1
+Content Type: 
+
+Uri: https://station.superhotshop.store/station_files/2254078611729776
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\2254078611729776-1
+Content Type: 
+
+Uri: https://station.superhotshop.store/station_files/575821428171589
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\575821428171589-1
+Content Type: 
+
+Uri: https://station.superhotshop.store/station_files/AvenirNextCyr.css
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\AvenirNextCyr-1.css
+Content Type: text/css
+
+Uri: https://station.superhotshop.store/station_files/blu1.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\blu1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/blu2.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\blu2.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/blu3.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\blu3.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/blu4.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\blu4.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/code
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\code-1
+Content Type: 
+
+Uri: https://station.superhotshop.store/station_files/code(2)
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\code(2)-1
+Content Type: 
+
+Uri: https://station.superhotshop.store/station_files/fbevents(1).завантаження
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\fbevents(1)-1.завантаження
+Content Type: 
+
+Uri: https://station.superhotshop.store/station_files/fbevents(1).js.завантаження
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\fbevents(1).js-1.завантаження
+Content Type: text/javascript
+
+Uri: https://station.superhotshop.store/station_files/fbevents(2).завантаження
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\fbevents(2)-1.завантаження
+Content Type: 
+
+Uri: https://station.superhotshop.store/station_files/fbevents.js.завантаження
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\fbevents.js-1.завантаження
+Content Type: text/javascript
+
+Uri: https://station.superhotshop.store/station_files/ga
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\ga-1
+Content Type: 
+
+Uri: https://station.superhotshop.store/station_files/ga(1)
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\ga(1)-1
+Content Type: 
+
+Uri: https://station.superhotshop.store/station_files/jquery.min(1).js.завантаження
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\jquery.min(1).js-1.завантаження
+Content Type: text/javascript
+
+Uri: https://station.superhotshop.store/station_files/jquery.min.js.завантаження
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\jquery.min.js-1.завантаження
+Content Type: text/javascript
+
+Uri: https://station.superhotshop.store/station_files/loading.gif
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\loading-1.gif
+Content Type: image/gif
+
+Uri: https://station.superhotshop.store/station_files/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\owl.carousel.min-1.css
+Content Type: text/css
+
+Uri: https://station.superhotshop.store/station_files/previewYouTube.js.завантаження
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\previewYouTube.js-1.завантаження
+Content Type: text/javascript
+
+Uri: https://station.superhotshop.store/station_files/q5.MP4
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\q5-1.MP4
+Content Type: video/mp4
+
+Uri: https://station.superhotshop.store/station_files/reset.css
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\reset-1.css
+Content Type: text/css
+
+Uri: https://station.superhotshop.store/station_files/ronin22.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\ronin22-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/ronin33.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\ronin33-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/ronin44.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\ronin44-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/ronin5.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\ronin5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/styles.css
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\styles-1.css
+Content Type: text/css
+
+Uri: https://station.superhotshop.store/station_files/y1.webp
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\y1-1.webp
+Content Type: image/webp
+
+Uri: https://station.superhotshop.store/station_files/y2.webp
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\y2-1.webp
+Content Type: image/webp
+
+Uri: https://station.superhotshop.store/station_files/y3.webp
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\y3-1.webp
+Content Type: image/webp
+
+Uri: https://station.superhotshop.store/station_files/y4.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\y4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/y5.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\y5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/z10.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\z10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/z11.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\z11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/z2.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\z2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/z3.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\z3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/z4.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\z4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/z5.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\z5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/z7.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\z7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://station.superhotshop.store/station_files/z9.jpg
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\station_files\z9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.facebook.com/tr?id=2254078611729776&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\station.superhotshop.store\tr-1
+Content Type: text/plain
+
